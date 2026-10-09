@@ -4,7 +4,7 @@
 > (INR 5.78 lakh revenue) using a **live MySQL connection** and a **3-page interactive
 > Power BI dashboard**: product, supplier, carrier, route and location performance.
 
-![Executive Overview](charts/1_executive_overview.png)
+![Executive Overview](charts/1_executive_overview.png.)
 
 ---
 
