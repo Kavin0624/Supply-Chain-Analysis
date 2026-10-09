@@ -1,0 +1,4 @@
+"Supplier_Name","Cost_per_Unit_INR","Lead_Time_Days","Defect_Rate_Percent"
+"Supplier A","50","5","2"
+"Supplier B","45","7","1"
+"Supplier C","55","4","3"
